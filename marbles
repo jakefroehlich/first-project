@@ -1,0 +1,6 @@
+let marbles = 12
+
+while (marbles < 15) {
+    console.log('${marbles} is not enough marbles!')
+    marbles ++
+}
